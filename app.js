@@ -21,4 +21,7 @@ var hour = document.getElementById('hour')
 
 
 
+var status = checkign
+
+
 
