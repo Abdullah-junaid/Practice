@@ -1,0 +1,25 @@
+#main{
+   margin-left: 10cm;
+    border: solid black 3px;
+    text-align: center;
+    height: 10cm;
+    border-radius: 1000in;
+    width: 15cm;
+    
+}
+
+.watch{
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 10px;
+    font-size: 1in;
+    background-color: gray;
+    color: white;
+}
+p{
+    display: inline-block;
+}
+button{
+    width: 100px;
+    height: 50px;
+}
